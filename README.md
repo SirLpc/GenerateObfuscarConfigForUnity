@@ -1,5 +1,5 @@
 # GenerateObfuscarConfigForUnity
-A unity engine tool for generate general [Obfuscar](https://https://github.com/obfuscar/obfuscar) xml config.
+A unity engine tool for generate general [Obfuscar](https://github.com/obfuscar/obfuscar) xml config.
 
 The main purpose of this tool is to make sure your unity c# code work properly after confused by Obfuscar.
 
