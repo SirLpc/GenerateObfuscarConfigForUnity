@@ -16,3 +16,4 @@ The main purpose of this tool is to make sure your unity c# code work properly a
 # Notice
 You should pay attention to those name sensitve members in your class, such as a method will be used by unity delay Invoke("NameOfMethod"). At this point, you could create a custom attribule to mark a method should not be renamed, and config this attribute in the `ObfuscarModuleIgnoreAttributes` array in the ObfuscarConfigInfo config before.
 
+### At last, great thanks for the author of [Obfuscar](https://github.com/obfuscar/obfuscar) project :)
